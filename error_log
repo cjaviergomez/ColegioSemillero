@@ -1,0 +1,349 @@
+[21-Feb-2018 03:39:00 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 14:07:18 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 15:11:19 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 15:16:38 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 15:46:39 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 16:48:13 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 16:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:03:22 UTC] PHP Fatal error:  Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 20:27:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[21-Feb-2018 21:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:31:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 01:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 03:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 03:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 04:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 17:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 17:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in /home/colegiosemillero/public_html/conec.php:4
+Stack trace:
+#0 /home/colegiosemillero/public_html/validar_usuario.php(10): conectarse()
+#1 {main}
+  thrown in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 17:16:48 UTC] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/colegiosemillero/public_html/phpinfo.php on line 2
+[22-Feb-2018 17:16:54 UTC] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/colegiosemillero/public_html/phpinfo.php on line 2
+[22-Feb-2018 17:17:43 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;::1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 4
+[22-Feb-2018 12:23:30 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;::1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 6
+[22-Feb-2018 12:25:53 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 6
+[22-Feb-2018 12:32:48 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 6
+[22-Feb-2018 12:35:42 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;69.10.34.52&quot; and accepting
+	TCP/IP connections on port 5432? in /home/colegiosemillero/public_html/conec.php on line 6
+[22-Feb-2018 12:39:12 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;69.10.34.52&quot; and accepting
+	TCP/IP connections on port 5432? in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 12:39:46 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;::1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 12:44:57 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 14:06:42 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 17:07:43 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 17:39:36 America/Bogota] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no pg_hba.conf entry for host &quot;127.0.0.1&quot;, user &quot;colegiosemillero_colegiosemillero&quot;, database &quot;colegiosemillero_semillero1&quot;, SSL off in /home/colegiosemillero/public_html/conec.php on line 7
+[22-Feb-2018 17:41:01 America/Bogota] PHP Notice:  Undefined index: usuario in /home/colegiosemillero/public_html/validar_usuario.php on line 12
+[22-Feb-2018 17:41:01 America/Bogota] PHP Notice:  Undefined index: clave in /home/colegiosemillero/public_html/validar_usuario.php on line 13
+[22-Feb-2018 23:08:01 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/profe1.php on line 6
+[22-Feb-2018 23:08:01 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/profe1.php on line 137
+[22-Feb-2018 23:08:01 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/profe1.php on line 138
+[22-Feb-2018 23:08:01 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/profe1.php on line 198
+[23-Feb-2018 02:30:22 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/correo_madre1.php on line 6
+[23-Feb-2018 02:30:22 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/correo_madre1.php on line 90
+[23-Feb-2018 02:30:22 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/correo_madre1.php on line 91
+[22-Feb-2018 21:30:22 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/correo_madre1.php on line 162
+[22-Feb-2018 21:30:22 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/correo_madre1.php on line 172
+[22-Feb-2018 21:30:22 America/Bogota] PHP Notice:  Undefined index: apellido in /home/colegiosemillero/public_html/correo_madre1.php on line 172
+[22-Feb-2018 21:30:22 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/correo_madre1.php on line 172
+[22-Feb-2018 21:46:10 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  duplicate key value violates unique constraint &quot;imagen_pkey&quot;
+DETAIL:  Key (id_imagen)=(img/jonathan3.jpg) already exists. in /home/colegiosemillero/public_html/up_foto2admin.php on line 250
+[22-Feb-2018 22:35:09 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 407
+[22-Feb-2018 22:35:09 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 407
+[22-Feb-2018 22:36:38 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 407
+[22-Feb-2018 22:36:38 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 407
+[22-Feb-2018 22:40:52 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:40:52 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:42:05 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:42:05 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:42:43 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:42:43 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 22:45:41 America/Bogota] PHP Notice:  Undefined variable: actualizar in /home/colegiosemillero/public_html/clave2_admin.php on line 275
+[22-Feb-2018 22:45:41 America/Bogota] PHP Notice:  Undefined variable: actualizar in /home/colegiosemillero/public_html/clave2_admin.php on line 307
+[22-Feb-2018 22:45:41 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/clave2_admin.php on line 307
+[22-Feb-2018 22:55:32 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_admin.php on line 231
+[23-Feb-2018 04:12:45 UTC] PHP Notice:  Undefined index: asunto_txt in /home/colegiosemillero/public_html/mail.php on line 23
+[22-Feb-2018 23:39:36 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_admin.php on line 231
+[22-Feb-2018 23:40:09 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_admin.php on line 30
+[22-Feb-2018 23:43:51 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 26
+[22-Feb-2018 23:43:51 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 34
+[22-Feb-2018 23:43:51 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[22-Feb-2018 23:43:51 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 06:56:51 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_admin.php on line 231
+[23-Feb-2018 09:55:23 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 09:55:23 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 11:22:13 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_admin.php on line 231
+[23-Feb-2018 18:15:54 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 18:15:54 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 18:16:57 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[23-Feb-2018 18:16:57 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_admin2.php on line 394
+[24-Feb-2018 01:36:28 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_admin.php on line 231
+[24-Feb-2018 01:36:37 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_admin.php on line 231
+[24-Feb-2018 01:36:40 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_admin.php on line 30
+[02-Mar-2018 18:30:36 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistencia2.php on line 26
+[02-Mar-2018 18:30:36 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistencia2.php on line 34
+[02-Mar-2018 18:30:42 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistencia2.php on line 26
+[02-Mar-2018 18:30:42 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistencia2.php on line 34
+[03-Mar-2018 21:47:01 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/profe1.php on line 6
+[03-Mar-2018 21:47:01 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/profe1.php on line 137
+[03-Mar-2018 21:47:01 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/profe1.php on line 138
+[03-Mar-2018 21:47:01 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/profe1.php on line 198
+[05-Mar-2018 15:15:38 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistencia2.php on line 26
+[05-Mar-2018 15:15:38 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistencia2.php on line 34
+[05-Mar-2018 15:15:39 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistencia2.php on line 26
+[05-Mar-2018 15:15:39 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistencia2.php on line 34
+[05-Mar-2018 17:22:00 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_secre.php on line 239
+[05-Mar-2018 17:22:06 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 233
+[05-Mar-2018 17:22:55 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 233
+[05-Mar-2018 17:23:00 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 233
+[05-Mar-2018 17:25:27 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 233
+[05-Mar-2018 17:25:30 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_secre.php on line 30
+[05-Mar-2018 22:40:38 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 5
+[05-Mar-2018 17:40:38 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia2.php on line 207
+[05-Mar-2018 17:40:38 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 208
+[05-Mar-2018 17:46:55 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(300) in /home/colegiosemillero/public_html/dbasistencia.php on line 70
+[05-Mar-2018 17:46:55 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(300) in /home/colegiosemillero/public_html/dbasistencia.php on line 70
+[05-Mar-2018 17:46:55 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(300) in /home/colegiosemillero/public_html/dbasistencia.php on line 70
+[05-Mar-2018 17:46:55 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(300) in /home/colegiosemillero/public_html/dbasistencia.php on line 70
+[05-Mar-2018 20:18:59 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 26
+[05-Mar-2018 20:18:59 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 34
+[05-Mar-2018 20:18:59 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 424
+[05-Mar-2018 20:18:59 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 424
+[05-Mar-2018 20:19:00 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 26
+[05-Mar-2018 20:19:00 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 34
+[05-Mar-2018 20:19:00 America/Bogota] PHP Notice:  Undefined variable: result in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 424
+[05-Mar-2018 20:19:00 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/consulta_notas_secre2.php on line 424
+[06-Mar-2018 01:39:07 UTC] PHP Notice:  Undefined index: asunto_txt in /home/colegiosemillero/public_html/mail_padre.php on line 23
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:06:38 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[05-Mar-2018 21:12:38 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[05-Mar-2018 21:15:50 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(20) in /home/colegiosemillero/public_html/up2.php on line 220
+[05-Mar-2018 21:19:58 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[05-Mar-2018 21:21:24 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[05-Mar-2018 21:26:28 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[06-Mar-2018 02:44:35 UTC] PHP Parse error:  syntax error, unexpected '$newnota' (T_VARIABLE) in /home/colegiosemillero/public_html/mejoras2.php on line 75
+[06-Mar-2018 02:46:00 UTC] PHP Parse error:  syntax error, unexpected '$newnota' (T_VARIABLE) in /home/colegiosemillero/public_html/mejoras2.php on line 153
+[06-Mar-2018 02:46:46 UTC] PHP Parse error:  syntax error, unexpected '$newnota' (T_VARIABLE) in /home/colegiosemillero/public_html/mejoras2.php on line 153
+[05-Mar-2018 22:07:27 America/Bogota] PHP Notice:  Undefined variable: actualizar in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 375
+[05-Mar-2018 22:07:27 America/Bogota] PHP Notice:  Undefined variable: result4 in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[05-Mar-2018 22:07:27 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[05-Mar-2018 22:08:44 America/Bogota] PHP Notice:  Undefined variable: result4 in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[05-Mar-2018 22:08:44 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[06-Mar-2018 14:33:57 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/notas_padre2.php on line 4
+[06-Mar-2018 09:33:57 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/notas_padre2.php on line 151
+[06-Mar-2018 09:33:57 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/notas_padre2.php on line 152
+[06-Mar-2018 09:55:48 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[06-Mar-2018 11:16:51 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(30) in /home/colegiosemillero/public_html/up2.php on line 220
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:19:03 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 269
+[06-Mar-2018 11:25:32 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_secre.php on line 239
+[06-Mar-2018 11:26:03 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_secre.php on line 239
+[06-Mar-2018 11:46:11 America/Bogota] PHP Notice:  Undefined variable: result4 in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[06-Mar-2018 11:46:11 America/Bogota] PHP Warning:  pg_free_result() expects parameter 1 to be resource, null given in /home/colegiosemillero/public_html/actualiza_periodo3.php on line 400
+[06-Mar-2018 17:42:51 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/admin1.php on line 6
+[06-Mar-2018 17:42:51 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/admin1.php on line 175
+[06-Mar-2018 17:42:51 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/admin1.php on line 176
+[06-Mar-2018 17:42:51 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/admin1.php on line 238
+[06-Mar-2018 20:15:24 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 5
+[06-Mar-2018 15:15:24 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistencia2.php on line 26
+[06-Mar-2018 15:15:24 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistencia2.php on line 34
+[06-Mar-2018 15:15:24 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia2.php on line 207
+[06-Mar-2018 15:15:24 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 208
+[06-Mar-2018 20:15:32 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 6
+[06-Mar-2018 20:15:32 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia.php on line 176
+[06-Mar-2018 20:15:32 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 177
+[06-Mar-2018 21:54:37 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 5
+[06-Mar-2018 16:54:37 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia2.php on line 255
+[06-Mar-2018 16:54:37 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 256
+[07-Mar-2018 02:36:27 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 5
+[06-Mar-2018 21:36:27 America/Bogota] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia2.php on line 255
+[06-Mar-2018 21:36:27 America/Bogota] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia2.php on line 256
+[13-Mar-2018 18:33:31 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  value too long for type character varying(300) in /home/colegiosemillero/public_html/dbasistencia.php on line 146
+[13-Mar-2018 19:37:27 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_secre.php on line 239
+[13-Mar-2018 19:39:48 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/familia1_secre.php on line 240
+[13-Mar-2018 19:40:11 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 233
+[13-Mar-2018 19:41:57 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/madre1_secre.php on line 234
+[13-Mar-2018 19:55:07 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_secre.php on line 30
+[13-Mar-2018 19:58:07 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_secre.php on line 30
+[13-Mar-2018 20:01:04 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/acudiente1_secre.php on line 30
+[13-Mar-2018 20:15:12 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/editar_secre_padre2.php on line 285
+[13-Mar-2018 20:16:43 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/editar_secre_padre2.php on line 285
+[13-Mar-2018 20:19:02 America/Bogota] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;examen&quot; does not exist
+LINE 1: select* from examen
+                     ^ in /home/colegiosemillero/public_html/editar_secre_padre2.php on line 285
+[13-Mar-2018 20:51:09 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 270
+[13-Mar-2018 20:51:09 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 270
+[13-Mar-2018 20:51:09 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 270
+[13-Mar-2018 20:51:09 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 270
+[13-Mar-2018 20:51:09 America/Bogota] PHP Notice:  Undefined variable: periodo in /home/colegiosemillero/public_html/profe_recomendacion2.php on line 270
+[14-Mar-2018 09:54:21 America/Bogota] PHP Notice:  Undefined variable: grado in /home/colegiosemillero/public_html/ver1p.php on line 46
+[14-Mar-2018 10:16:11 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistenciaprofe2.php on line 26
+[14-Mar-2018 10:16:11 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistenciaprofe2.php on line 34
+[14-Mar-2018 10:16:12 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/asistenciaprofe2.php on line 26
+[14-Mar-2018 10:16:12 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/asistenciaprofe2.php on line 34
+[14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/dbasistencia.php on line 31
+[14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/dbasistencia.php on line 32
+[14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: year in /home/colegiosemillero/public_html/dbasistencia.php on line 33
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 124
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
+[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
+[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 6
+[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia.php on line 176
+[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 177
+[20-Mar-2018 14:50:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/colegiosemillero/public_html/dbasistencia.php on line 105
+[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 33
+[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 34
+[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: year in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 35
