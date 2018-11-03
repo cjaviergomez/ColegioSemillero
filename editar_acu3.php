@@ -263,7 +263,7 @@ if ($_SESSION["nombre"]==""){
                         echo "
                       <hgroup class='titulos-wrap'>
                       <h4 class='titulo wow fadeIn' data-wow-delay='0.2s'>Acudiente actualizado exitosamente</h4> 
-                      <h4 class='subtitulo wow fadeIn' data-wow-delay='0.2s'>la información del Acudiente ya ha sido actualizada.</h4>  
+                      <h4 class='subtitulo wow fadeIn' data-wow-delay='0.2s'>la información del Acudiente ya a sido actualizado.</h4>  
                   
                       </hgroup>
 
@@ -276,7 +276,7 @@ if ($_SESSION["nombre"]==""){
                               echo "
 
                       <hgroup class='titulos-wrap'>
-                      <h4 class='titulo wow fadeIn' data-wow-delay='0.2s'>No se pudo actualizar la información</h4>   
+                      <h4 class='titulo wow fadeIn' data-wow-delay='0.2s'>No se pudo actualizadar la información</h4>   
                       <h4 class='subtitulo wow fadeIn' data-wow-delay='0.2s'>intentalo nuevamente o comunicate con el ingeniero</h4>   
                       </hgroup> ";
 

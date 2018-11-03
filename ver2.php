@@ -29,8 +29,8 @@ ini_set('display_errors', '1');
 
  $res2 = pg_query($conn,$consul2);
  $row2 = pg_fetch_array($res2);
- $year = $row2["0"];
- //$year='2017';
+ //$year = $row2["0"];
+ $year='2017';
 
  $grado=$_SESSION["grado"];
  $materia = $_POST["materia"]; //id de la materia llega del formulario

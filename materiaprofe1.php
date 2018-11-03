@@ -278,7 +278,7 @@ function desmarcar(obj) {
                         <h4 class="titulo wow fadeInDown" data-wow-delay="0.1s" >Colegio Semillero Dos Mil</h4>
                         <h5 class="small-title">Estudio Amor y Paz.</h5>
 
- <form  METHOD="POST" action="materiaprofe2.php" >
+ <form  METHOD=POST action="materiaprofe2.php" >
 
 
   <h4>Seleccionar el profesor</h4>  

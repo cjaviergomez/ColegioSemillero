@@ -29,8 +29,8 @@ if ($_SESSION["nombre"]==""){
 
      $res2 = pg_query($conn,$consul2);
      $row2 = pg_fetch_array($res2);
-     $year=$row2["0"];
-     //$year='2017';
+     //$year=$row2["0"];
+     $year='2017';
      $grado = $_POST["grado"];
 
     

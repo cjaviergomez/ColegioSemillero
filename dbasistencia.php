@@ -14,8 +14,6 @@ if ($_SESSION["nombre"]==""){
   //no hago nada solo continuo en la pagina
 
 }
- //error_reporting(E_ALL);
- //ini_set('display_errors', '1');
 
      include("conec.php"); 
      $conn=conectarse();
@@ -46,7 +44,6 @@ if ($_SESSION["nombre"]==""){
       if( $test > 0){  
          $cont = 0; //Para los estudiantes.
          $B = 'B';
-         $Salto = "\n";
          $sql6 = "delete from observaciones where id_year='$year' and id_grado='$grado'  and id_periodo='$periodo'";
          $result6 = pg_query($conn, $sql6);
          while ($row1=pg_fetch_array($result5)) 
@@ -66,28 +63,22 @@ if ($_SESSION["nombre"]==""){
 
                       for($n = 0; $n<$num; $n++){  //Este for extrae las observaciones academicas de un estudiante y las almacena en  otra variable.
                         $texto = $arrayobservacionesacademicas[$n];
-                        
+                        $observacionacademica = $observacionacademica.$texto;
                         if($texto == ''){
                           $texto2 = $_POST[$cont.$cont];
-                          $observacionacademica = $observacionacademica.$texto2.$Salto;
+                          $observacionacademica = $observacionacademica.$texto2;
 
-                        }else{
-                            $observacionacademica = $observacionacademica.$texto.$Salto;
-                        }
-                            
                         }
 
-                      
+                      }
 
                       for($n = 0; $n<$num2; $n++){ //Este for extrae las observaciones de convivencia de un estudiante y las almacena en  otra variable.
                         $texto = $arrayobservacionesconvivencia[$n];
-                        
+                        $observacionconvivencia = $observacionconvivencia.$texto;
                         if($texto == ''){
                           $texto2 = $_POST[$cont.$B.$cont.$B];
-                          $observacionconvivencia = $observacionconvivencia.$texto2.$Salto;
+                          $observacionconvivencia = $observacionconvivencia.$texto2;
 
-                        }else{
-                            $observacionconvivencia = $observacionconvivencia.$texto.$Salto;
                         }
 
 
@@ -105,12 +96,11 @@ if ($_SESSION["nombre"]==""){
 
       
       }else{
-        $Salto = "\n";
         $cont = 0; //Para los estudiantes.
          $B = 'B';
          while ($row1=pg_fetch_array($result5)) 
               { 
-                      $codigo1=$row1["0"];
+                       $codigo1=$row1["0"];
                       $cont = $cont + 1;
                       $observacionacademica = "";
                       $observacionconvivencia = "";
@@ -125,28 +115,22 @@ if ($_SESSION["nombre"]==""){
 
                       for($n = 0; $n<$num; $n++){  //Este for extrae las observaciones academicas de un estudiante y las almacena en  otra variable.
                         $texto = $arrayobservacionesacademicas[$n];
-                        
+                        $observacionacademica = $observacionacademica.$texto;
                         if($texto == ''){
                           $texto2 = $_POST[$cont.$cont];
-                          $observacionacademica = $observacionacademica.$texto2.$Salto;
+                          $observacionacademica = $observacionacademica.$texto2;
 
-                        }else{
-                            $observacionacademica = $observacionacademica.$texto.$Salto;
-                        }
-                            
                         }
 
-                      
+                      }
 
                       for($n = 0; $n<$num2; $n++){ //Este for extrae las observaciones de convivencia de un estudiante y las almacena en  otra variable.
                         $texto = $arrayobservacionesconvivencia[$n];
-                        
+                        $observacionconvivencia = $observacionconvivencia.$texto;
                         if($texto == ''){
                           $texto2 = $_POST[$cont.$B.$cont.$B];
-                          $observacionconvivencia = $observacionconvivencia.$texto2.$Salto;
+                          $observacionconvivencia = $observacionconvivencia.$texto2;
 
-                        }else{
-                            $observacionconvivencia = $observacionconvivencia.$texto.$Salto;
                         }
 
 

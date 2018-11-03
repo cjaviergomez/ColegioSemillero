@@ -161,7 +161,6 @@ if ($_SESSION["nombre"]==""){
                                  <li><a href="registro_materia.php"  title="" >Materias</a></li>
                                  <li><a href="registro_materia_grado.php">Materia-Grado</a></li>
                                  <li><a href="registro_profesor_materia.php">Materia-Profesor</a></li>
-                                 <li><a href="registrardirector.php">Grado-Director</a></li>
                                 
           
      

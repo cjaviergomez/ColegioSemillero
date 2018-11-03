@@ -29,7 +29,7 @@ ini_set('display_errors', '1');
  $consul = "SELECT EXTRACT(YEAR FROM current_date) FROM current_date";
  $res = pg_query($conn,$consul);
  $row = pg_fetch_array($res);
- $year = $row["0"];
+ $year = 2017;//$row["0"];
 
 
  $consul2="select id_grado, nombre, apellido from estudiante where id_estudiante='$id' and id_year='$year'";

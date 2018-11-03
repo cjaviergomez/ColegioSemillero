@@ -323,27 +323,3 @@ LINE 1: select* from examen
 [14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/dbasistencia.php on line 31
 [14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/dbasistencia.php on line 32
 [14-Mar-2018 10:42:15 America/Bogota] PHP Notice:  Undefined index: year in /home/colegiosemillero/public_html/dbasistencia.php on line 33
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 124
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 121
-[20-Mar-2018 08:35:59 America/Bogota] PHP Notice:  Undefined variable: Salto in /home/colegiosemillero/public_html/dbasistencia.php on line 132
-[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 6
-[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: foto in /home/colegiosemillero/public_html/asistencia.php on line 176
-[20-Mar-2018 14:35:11 UTC] PHP Notice:  Undefined index: nombre in /home/colegiosemillero/public_html/asistencia.php on line 177
-[20-Mar-2018 14:50:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/colegiosemillero/public_html/dbasistencia.php on line 105
-[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: periodo in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 33
-[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: grado in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 34
-[20-Mar-2018 14:41:01 America/Bogota] PHP Notice:  Undefined index: year in /home/colegiosemillero/public_html/dbasistenciaprofe.php on line 35

@@ -244,7 +244,7 @@ if ($_SESSION["nombre"]==""){
 
 
                          <hgroup class="titulos-wrap">
-                           <h4 class="titulo wow fadeIn" data-wow-delay="0.2s">El profesor no existe</h4>   
+                           <h4 class="titulo wow fadeIn" data-wow-delay="0.2s">el profesor no existe</h4>   
                              <h4 class="subtitulo wow fadeIn" data-wow-delay="0.2s">Revisa la identificación del profesor, parece ser que no hay un profesor registrado con esta identificación.</h4>  
                            </hgroup>
 

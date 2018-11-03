@@ -229,7 +229,7 @@ if ($_SESSION["nombre"]==""){
 
 
                          <hgroup class="titulos-wrap">
-     <h4 class="titulo wow fadeIn" data-wow-delay="0.2s">El padre no existe</h4>   
+     <h4 class="titulo wow fadeIn" data-wow-delay="0.2s">el padre no existe</h4>   
       <h4 class="subtitulo wow fadeIn" data-wow-delay="0.2s">Revisa la identificación del padre, parece ser que no hay un padre registrado con esta identificación.</h4>   
     
              

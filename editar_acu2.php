@@ -40,6 +40,7 @@ if ($test1 == 0){
 
  header("Location: noacu.php");
 
+  //echo "no inicio sesion";
             
 
 }else{

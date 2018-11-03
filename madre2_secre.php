@@ -281,7 +281,7 @@ if ($_SESSION["nombre"]==""){
 
                  <hgroup class='titulos-wrap'>
                 
-                <h4 class='titulo  wow fadeIn' data-wow-delay='0.4s'>Madre registrada exitosamente</h4></br>    
+                <h4 class='titulo  wow fadeIn' data-wow-delay='0.4s'>Madre registrado exitosamente</h4></br>    
                 <h4 class='subtitulo  wow fadeIn' data-wow-delay='0.4s'align='justify'>la madre ya se encuentra habilitada en el sistema, su usuario y contraseña serán su número de identificación, ella podrá modificar esto cuando inicie sesión, gracias por utilizar el sistema académico del colegio semillero dos mil. Ahora puedes continuar registrando la información familiar.</h4> 
              
                   </hgroup>

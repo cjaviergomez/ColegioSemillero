@@ -284,7 +284,7 @@ if ($_SESSION["nombre"]==""){
         <h4 class="modal-title" id="myModalLabel">Confirmar</h4>
       </div>
       <div class="modal-body">
-        Estas a punto de registrar al acudiente, revisa que todos los datos sean correctos, si estás seguro(a) dale click en 
+        Estas a punto de registrar al acudiente, revisa que todos los datos sean correctos, si estás seguro(a) dale clic en 
         confirmar.
       </div>
       <div class="modal-footer">

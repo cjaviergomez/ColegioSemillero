@@ -25,9 +25,10 @@ if ($_SESSION["nombre"]==""){
      $consul2="SELECT EXTRACT(YEAR FROM current_date) FROM current_date";  //Para saber el año actual.
      $res2 = pg_query($conn,$consul2);
      $row2 = pg_fetch_array($res2);
-     $year=$row2["0"];
+     //$year=$row2["0"];
+     $year='2017';
 
-     $sql4="select id_profesor from directorgrado where id_profesor='$profesor' and id_grado='$grado' and id_year='$year'"; //Para saber si ya el profesor tiene asociado un grado.
+     $sql4="select id_profesor from directorgrado where id_profesor='$profesor' and id_grado='$grado' and id_year='$year'"; //Para sabe si ya el profesor tiene asociao un grado.
      $result4=pg_query($conn,$sql4);
      $test=pg_num_rows($result4); 
 

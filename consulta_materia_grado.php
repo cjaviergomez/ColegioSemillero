@@ -230,7 +230,7 @@ if ($_SESSION["nombre"]==""){
                 <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
                       <div class="section-title mb60 text-center">
                         <!-- section title start-->
-                        <h2 class="titulo wow fadeInDown" data-wow-delay="0.1s" >Consulta Materias</h2>
+                        <h2 class="titulo wow fadeInDown" data-wow-delay="0.1s" >Registro Materias</h2>
                         <h4 class="titulo wow fadeInDown" data-wow-delay="0.1s" >Colegio Semillero Dos Mil</h4>
                         <h5 class="small-title">Estudio Amor y Paz.</h5>
 

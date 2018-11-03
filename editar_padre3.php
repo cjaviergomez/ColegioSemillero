@@ -286,7 +286,7 @@ if ($_SESSION["nombre"]==""){
                               echo "
 
                       <hgroup class='titulos-wrap'>
-                      <h4 class='titulo wow fadeIn' data-wow-delay='0.2s'>No se pudo modificar la información</h4>   
+                      <h4 class='titulo wow fadeIn' data-wow-delay='0.2s'>No se pudo modificar la informacion</h4>   
                       <h4 class='subtitulo wow fadeIn' data-wow-delay='0.2s'>intentalo nuevamente o comunicate con el ingeniero</h4>   
                       </hgroup>
 

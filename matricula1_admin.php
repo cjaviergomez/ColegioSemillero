@@ -310,7 +310,7 @@ if ($_SESSION["nombre"]==""){
       <option value="TI">Tarjreta de indentidad</option>
       <option value="CC">Cedula de ciudadania</option>
       <option value="Registro Civil">Registro civil</option>
-      <option value="Pasaporte">Pasaporte extranjero</option>
+      <option value="pasaporte">Pasaporte extranjero</option>
 
      </select> 
 
